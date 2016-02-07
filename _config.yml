@@ -1,3 +1,7 @@
+name: thejquinn
+favicon: null
+layout_spectrum: 0.5698925
+typography_spectrum: 0.7741935
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7741935
+title: Musings from a Worship Leader
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2616487
-  brandStrength: 0.8154122
-  rhythmicContrast: 0.8620071
   brandColors:
     - '#160D0B'
     - '#CFCFCF'
     - '#FFFDFC'
     - '#A29B99'
     - '#F0C49E'
+  brandStrength: 0.8154122
   lightness: 0.8128828
-layout_spectrum: 0.5698925
-name: thejquinn
+  saturation: 0.2616487
+  rhythmicContrast: 0.8620071
+purpose: []
