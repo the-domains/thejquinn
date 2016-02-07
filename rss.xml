@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Musings from a Worship Leader]]></title>
+        <description><![CDATA[Musings from a Worship Leader]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 04:37:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What have I learned?]]></title>
+            <description><![CDATA[<article><h1>What have I learned?</h1><p>All I ever really wanted to do was to help people feel like I felt at Passion '98.  I walked in the room and the presence of God was in my face.  It brought me to tears instantly, the feeling of pure love.  It was intoxicating.  And when I had the opportunity to do what I do full-time, I was honored, and committed.  And I have strived with all that I have to recreate that feeling.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45c1be7edd0f372a9f8a3536576921aac4b3a83d.jpg"></article>]]></description>
+            <link>undefinedwhat-have-i-learned/index.html</link>
+            <guid isPermaLink="false">e1e9358d-de19-4869-b7d6-2687b77bb625</guid>
+            <pubDate>Sun, 07 Feb 2016 04:36:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
