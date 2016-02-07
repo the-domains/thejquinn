@@ -1,14 +1,26 @@
-layout_spectrum: 0.9408602
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7741935
 color:
   saturation: 0.2616487
-  lightness: 0.8128828
   brandStrength: 0.8154122
+  rhythmicContrast: 0.8620071
   brandColors:
     - '#160D0B'
     - '#CFCFCF'
     - '#FFFDFC'
     - '#A29B99'
     - '#F0C49E'
-  rhythmicContrast: 0.8620071
-typography_spectrum: 0.7741935
+  lightness: 0.8128828
+layout_spectrum: 0.5698925
 name: thejquinn
