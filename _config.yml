@@ -1,4 +1,4 @@
-name: thejquinn
+name: The View from up Here
 favicon: null
 layout_spectrum: 0.5698925
 typography_spectrum: 0.7741935
@@ -36,6 +36,6 @@ color:
     - '#F0C49E'
   brandStrength: 0.8154122
   lightness: 0.8128828
-  saturation: 0.2616487
+  saturation: 0.8125
   rhythmicContrast: 0.8620071
 purpose: []
