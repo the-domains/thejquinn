@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Musings from a Worship Leader
+title: The View from up Here
 cta:
   domain: null
   bucket: null
